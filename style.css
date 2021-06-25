@@ -1,0 +1,18 @@
+body{
+ background:linear-gradient(#FF9933 0%,#FF5050 100%);
+    text-align:center;
+    color: darkorchid;
+    font-size: 20px;
+}
+img{
+    height:650px ;
+    width:500px ;
+    border-width: 20px;
+    border-radius: 25px;
+    border-color: aqua;
+    border-style: solid;
+    margin: 25px;
+}
+iframe{
+    width: 100%;
+}
